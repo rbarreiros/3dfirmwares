@@ -1,6 +1,6 @@
 
 
-* mks_robin_nano35_sapphire_plus_v1_lvglui_cap_sensor_v1.zip
+mks_robin_nano35_sapphire_plus_v1_lvglui_cap_sensor_v1.zip
 
 Sapphire Plus V1
 MKS Robin Nano with FSMC TFT (TFT35)

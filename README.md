@@ -24,3 +24,12 @@ _p.s. Requires installation of ch340g driver for USB_
 Creality board V4.2.2
 - Stock firmware no aditional features
 - Stock CR-10 factory LCD
+
+# JGAurora A5
+
+### firmware-2.0.9.3.hex
+
+Stock board MKS GEN L with ATMega2560
+- Marlin 2.0.9.3
+- Stock config without runout sensor
+
